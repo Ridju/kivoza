@@ -12,6 +12,14 @@ Run following command **inside** the project directory
 make
 ```
 
+## Clean
+
+The build directory can be cleaned with:
+
+```bash
+make clean
+```
+
 ## Run the VM
 
 Start VM with example game **2048**:
