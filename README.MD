@@ -29,9 +29,9 @@ cd build
 ./vm ../games/2048.ojb
 ```
 
-Start Vm with example game **rougue**:
+Start Vm with example game **rogue**:
 
 ```bash
 cd build
-./vm ../games/2048.ojb
+./vm ../games/rogue.ojb
 ```
